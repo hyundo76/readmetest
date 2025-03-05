@@ -36,6 +36,12 @@ html 코드 작성
 >인용구문 작성할려면 >이거 써
 
 ### 벳치(badge)
-[https://simpleicons.org/(https://simpleicons.org/)]
+[https://simpleicons.org/ (https://simpleicons.org/)]
+
+[https://shields.io/ (https://shields.io/)]
 
 #9553E9
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
