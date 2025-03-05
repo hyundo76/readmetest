@@ -43,3 +43,5 @@ html 코드 작성
 ![Static Badge](https://img.shields.io/badge/Samsung-brightgreen?style=flat&logo=Samsung&logoColor=white&logoSize=auto&labelColor=%231428A0&color=%231428A0)
 
 ![samsung](https://simpleicons.org/?modal=icon&q=samsung)
+
+
