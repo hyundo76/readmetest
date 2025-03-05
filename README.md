@@ -7,3 +7,19 @@ Markdown 문법은 간단한 텍스트 포맷팅을 위한 마크업 언어로, 
 
 ### 제목 넣기
 ####
+
+git 저장소 초기화
+```bash
+git init
+```
+
+python 라이브러리 넣기
+```py
+import re
+```
+
+html 코드 작성
+
+```html
+<a href='링크주소>
+```
