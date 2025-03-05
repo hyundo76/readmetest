@@ -40,10 +40,7 @@ html 코드 작성
 
 [https://shields.io/ (https://shields.io/)]
 
-#9553E9
+![Static Badge](https://img.shields.io/badge/Samsung-brightgreen?style=flat&logo=Samsung&logoColor=white&logoSize=auto&labelColor=%231428A0&color=%231428A0)
 
-![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&labelColor=%2323FFB0&color=%2323FFB0)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&labelColor=%2323FFB0&color=%2323FFB0">
 
-[![GitHub](https://img.shields.io/badge/GitHub-username-%23121011)](https://github.com/username)
