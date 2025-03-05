@@ -42,6 +42,7 @@ html 코드 작성
 
 #9553E9
 
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![Static Badge](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&labelColor=%2323FFB0&color=%2323FFB0)
 
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+<img alt="Static Badge" src="https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=appveyor&logoColor=violet&logoSize=auto&labelColor=%2323FFB0&color=%2323FFB0">
+
